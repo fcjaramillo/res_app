@@ -119,6 +119,46 @@ class I18n {
       args: [],
     );
   }
+
+  /// `In which city do you want to eat?`
+  String get sHomeAskCity {
+    return Intl.message(
+      'In which city do you want to eat?',
+      name: 'sHomeAskCity',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Near restaurants`
+  String get sHomeNearRestaurant {
+    return Intl.message(
+      'Near restaurants',
+      name: 'sHomeNearRestaurant',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `POPULAR DESTINATIONS`
+  String get sHomePopularDestines {
+    return Intl.message(
+      'POPULAR DESTINATIONS',
+      name: 'sHomePopularDestines',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Restaurants`
+  String get sRestaurants {
+    return Intl.message(
+      'Restaurants',
+      name: 'sRestaurants',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<I18n> {
