@@ -25,8 +25,8 @@ const Color kWhite100 = Color.fromRGBO(255, 255, 255, 1.0);
 //Custom Colors
 const Color kBlueDark = Color(0xff081F32);
 const Color kGreenBlue = Color(0xff12555F);
+const Color kGreen = Color(0xff38C9BA);
 const Color kGray = Color.fromARGB(255, 162, 161, 161);
 const Color kGrayDetail = Color(0xff7A7A7A);
-const Color kGreen = Color.fromARGB(255, 6, 206, 12);
-const Color kOrange = Color.fromARGB(255, 228, 133, 16);
-const Color kYellow = Color(0xffEEBA00);
+const Color kRed = Color(0xFFFF2641);
+const Color kDarkRed = Color(0xFFC73734);

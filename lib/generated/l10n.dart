@@ -59,6 +59,66 @@ class I18n {
       args: [],
     );
   }
+
+  /// `Email`
+  String get sLoginEmail {
+    return Intl.message(
+      'Email',
+      name: 'sLoginEmail',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Password`
+  String get sLoginPass {
+    return Intl.message(
+      'Password',
+      name: 'sLoginPass',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Sing in`
+  String get sLoginSingIn {
+    return Intl.message(
+      'Sing in',
+      name: 'sLoginSingIn',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Do you have not an account?`
+  String get sLoginNoAccount {
+    return Intl.message(
+      'Do you have not an account?',
+      name: 'sLoginNoAccount',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `CREATE A NEW ONE HERE`
+  String get sLoginSingUp {
+    return Intl.message(
+      'CREATE A NEW ONE HERE',
+      name: 'sLoginSingUp',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Create account`
+  String get sNewUserCreate {
+    return Intl.message(
+      'Create account',
+      name: 'sNewUserCreate',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<I18n> {

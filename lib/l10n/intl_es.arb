@@ -1,3 +1,17 @@
 {
-  "sSplashLoading": "Cargando"
+  "@_SPLASH_SCREEN": {
+  },
+  "sSplashLoading": "Cargando",
+
+  "@_LOGIN_SCREEN": {
+  },
+  "sLoginEmail": "Correo electrónico",
+  "sLoginPass": "Contraseña",
+  "sLoginSingIn": "Iniciar sesion",
+  "sLoginNoAccount":"¿No tienes cuenta?",
+  "sLoginSingUp": "CREA UNA CUENTA AQUÍ",
+
+  "@_NEW_USER_SCREEN": {
+  },
+  "sNewUserCreate": "Crear cuenta"
 }
