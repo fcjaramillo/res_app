@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "698758388279",
+    "project_id": "res-app-69c7c",
+    "storage_bucket": "res-app-69c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698758388279:android:6583a02c8bd3891c623db2",
+        "android_client_info": {
+          "package_name": "com.fcjara.restaurant.com.res_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698758388279-kpjklps7couunem7dh1crk8n12r7rsan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2m_6agzZIomp2rGlkgci-av-Ep7T4I28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698758388279-kpjklps7couunem7dh1crk8n12r7rsan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698758388279-35h0u8oecabah83fn60s8m3vk2f6r2ef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fcjara.restaurant.com.resAppf"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698758388279:android:948208314bdc0001623db2",
+        "android_client_info": {
+          "package_name": "com.fcjara.restaurant.com.res_app_f"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698758388279-kpjklps7couunem7dh1crk8n12r7rsan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2m_6agzZIomp2rGlkgci-av-Ep7T4I28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698758388279-kpjklps7couunem7dh1crk8n12r7rsan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "698758388279-35h0u8oecabah83fn60s8m3vk2f6r2ef.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fcjara.restaurant.com.resAppf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

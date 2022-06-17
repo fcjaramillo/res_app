@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>698758388279-1slc6cticar34hvi5lpaplm94ii33iig.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.698758388279-1slc6cticar34hvi5lpaplm94ii33iig</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCV8imfhBcm6a5jdgAxHGm5fN9iTgSi-7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>698758388279</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fcjara.restaurant.com.resApp</string>
+	<key>PROJECT_ID</key>
+	<string>res-app-69c7c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>res-app-69c7c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:698758388279:ios:f14ba5d2bc7d73f4623db2</string>
+</dict>
+</plist>
