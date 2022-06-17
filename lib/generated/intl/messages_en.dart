@@ -22,6 +22,22 @@ class MessageLookup extends MessageLookupByLibrary {
 
   final messages = _notInlinedMessages(_notInlinedMessages);
   static Map<String, Function> _notInlinedMessages(_) => <String, Function>{
+        "sHomeAskCity": MessageLookupByLibrary.simpleMessage(
+            "In which city do you want to eat?"),
+        "sHomeNearRestaurant":
+            MessageLookupByLibrary.simpleMessage("Near restaurants"),
+        "sHomePopularDestines":
+            MessageLookupByLibrary.simpleMessage("POPULAR DESTINATIONS"),
+        "sLoginEmail": MessageLookupByLibrary.simpleMessage("Email"),
+        "sLoginNoAccount":
+            MessageLookupByLibrary.simpleMessage("Do you have not an account?"),
+        "sLoginPass": MessageLookupByLibrary.simpleMessage("Password"),
+        "sLoginSingIn": MessageLookupByLibrary.simpleMessage("Sing in"),
+        "sLoginSingUp":
+            MessageLookupByLibrary.simpleMessage("CREATE A NEW ONE HERE"),
+        "sNewUserCreate":
+            MessageLookupByLibrary.simpleMessage("Create account"),
+        "sRestaurants": MessageLookupByLibrary.simpleMessage("Restaurants"),
         "sSplashLoading": MessageLookupByLibrary.simpleMessage("Loading")
       };
 }

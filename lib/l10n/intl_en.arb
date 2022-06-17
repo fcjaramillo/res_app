@@ -1,3 +1,27 @@
 {
-  "sSplashLoading": "Loading"
+  "@_SPLASH_SCREEN": {
+  },
+  "sSplashLoading": "Loading",
+
+  "@_LOGIN_SCREEN": {
+  },
+  "sLoginEmail": "Email",
+  "sLoginPass": "Password",
+  "sLoginSingIn": "Sing in",
+  "sLoginNoAccount":"Do you have not an account?",
+  "sLoginSingUp": "CREATE A NEW ONE HERE",
+
+  "@_NEW_USER_SCREEN": {
+  },
+  "sNewUserCreate": "Create account",
+
+  "@_HOME_SCREEN": {
+  },
+  "sHomeAskCity": "In which city do you want to eat?",
+  "sHomeNearRestaurant": "Near restaurants",
+  "sHomePopularDestines": "POPULAR DESTINATIONS",
+
+  "@_RESTAURANTS_SCREEN": {
+  },
+  "sRestaurants": "Restaurants"
 }

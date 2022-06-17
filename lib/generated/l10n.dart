@@ -59,6 +59,106 @@ class I18n {
       args: [],
     );
   }
+
+  /// `Email`
+  String get sLoginEmail {
+    return Intl.message(
+      'Email',
+      name: 'sLoginEmail',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Password`
+  String get sLoginPass {
+    return Intl.message(
+      'Password',
+      name: 'sLoginPass',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Sing in`
+  String get sLoginSingIn {
+    return Intl.message(
+      'Sing in',
+      name: 'sLoginSingIn',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Do you have not an account?`
+  String get sLoginNoAccount {
+    return Intl.message(
+      'Do you have not an account?',
+      name: 'sLoginNoAccount',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `CREATE A NEW ONE HERE`
+  String get sLoginSingUp {
+    return Intl.message(
+      'CREATE A NEW ONE HERE',
+      name: 'sLoginSingUp',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Create account`
+  String get sNewUserCreate {
+    return Intl.message(
+      'Create account',
+      name: 'sNewUserCreate',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `In which city do you want to eat?`
+  String get sHomeAskCity {
+    return Intl.message(
+      'In which city do you want to eat?',
+      name: 'sHomeAskCity',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Near restaurants`
+  String get sHomeNearRestaurant {
+    return Intl.message(
+      'Near restaurants',
+      name: 'sHomeNearRestaurant',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `POPULAR DESTINATIONS`
+  String get sHomePopularDestines {
+    return Intl.message(
+      'POPULAR DESTINATIONS',
+      name: 'sHomePopularDestines',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Restaurants`
+  String get sRestaurants {
+    return Intl.message(
+      'Restaurants',
+      name: 'sRestaurants',
+      desc: '',
+      args: [],
+    );
+  }
 }
 
 class AppLocalizationDelegate extends LocalizationsDelegate<I18n> {
