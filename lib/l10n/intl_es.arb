@@ -13,5 +13,15 @@
 
   "@_NEW_USER_SCREEN": {
   },
-  "sNewUserCreate": "Crear cuenta"
+  "sNewUserCreate": "Crear cuenta",
+
+  "@_HOME_SCREEN": {
+  },
+  "sHomeAskCity": "¿En cual ciudad deseas comer?",
+  "sHomeNearRestaurant": "Restaurantes cercanos",
+  "sHomePopularDestines": "DESTINOS POPULARES",
+
+  "@_RESTAURANTS_SCREEN": {
+  },
+  "sRestaurants": "Restaurantes"
 }

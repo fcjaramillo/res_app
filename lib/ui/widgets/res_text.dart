@@ -30,6 +30,7 @@ class ResText extends StatelessWidget {
     return Text(
       text,
       maxLines: maxLines,
+      overflow: TextOverflow.fade,
       style: GoogleFonts.montserrat(
         textStyle: TextStyle(
           color: colorText,
@@ -37,7 +38,7 @@ class ResText extends StatelessWidget {
           fontSize: fontSize,
           height: height,
           letterSpacing: letterSpacing,
-          overflow: TextOverflow.ellipsis,
+          overflow: TextOverflow.fade,
           wordSpacing: wordSpacing,
         ),
       ),
